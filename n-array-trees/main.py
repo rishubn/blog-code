@@ -1,3 +1,6 @@
+# Rishub Nagpal <rnagpal2@gmu.edu>
+# 10 Jan 2016
+# N-array tree drawing for avtomation.com
 import pygame
 import math
 class Tree:
